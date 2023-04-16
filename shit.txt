@@ -1,0 +1,8 @@
+npx hardhat run scripts/deploy.js --network sepolia
+Deploying contracts with account:  0x34ED57Ef7f1B16d2A67db9B1094e50EbbB4ECfff
+Account balance:  33547278227151803
+WavePortal address:  0x96e4BF179299867AB8038C046CdDb020f4C958cb
+
+EtherScan Link: https://sepolia.etherscan.io/address/0x96e4BF179299867AB8038C046CdDb020f4C958cb
+
+QuickNode API URI: https://hidden-wider-spring.ethereum-sepolia.discover.quiknode.pro/44ef4690319aa82847a501aa9aca3612a4fcf214/
